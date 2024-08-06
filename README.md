@@ -1,4 +1,5 @@
-# facebook_login_page
+# Facebook Login Page Clone
+A simple and visually accurate clone of the Facebook login page created using HTML and CSS, designed for phishing cybersecurity testing and educational purposes.
 
 ## Screenshot
 
